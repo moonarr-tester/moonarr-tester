@@ -3,7 +3,7 @@
 This was pushed from Moonarr! My new project :)
 
 <!--
-**moonarr-tester/moonarr-tester** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**moonarr-tester/moonarr-tester** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
